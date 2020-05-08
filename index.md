@@ -1,4 +1,4 @@
-## Midiendo su vida
+# Midiendo su vida
 
 You can use the [editor on GitHub](https://github.com/FuckUps/FuckUps.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
