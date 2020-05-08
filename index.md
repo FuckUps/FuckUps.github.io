@@ -1,6 +1,6 @@
 # Midiendo su vida
 
-## VISÓN
+## VISIÓN
 NUTAY sabe que lo más importante es la salud, por lo que busca darle la oportunidad a cada usuario de ser la mejor versión de sí mismo en estos tiempos
 
 ### Contacto
