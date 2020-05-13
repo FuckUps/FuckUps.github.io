@@ -1,3 +1,3 @@
-#README
+README
 
-##[Visita la página](fuckups.github.io)
+[Visita la página](fuckups.github.io)
