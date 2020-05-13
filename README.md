@@ -1,3 +1,2 @@
-README
-
-[Visita la página](fuckups.github.io)
+# FUCKUPS.github.io
+https://fuckups.github.io/
