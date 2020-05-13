@@ -9,6 +9,7 @@ En caso de tener dudas favor de contactar a [no_me_importa@hotmail.com](outlook.
 
 ### Otras páginas
 [Página principal](index.md)
+
 [Diagramas de secuencia](DiagramasDeSecuencia.md)
 
-# #1
+# #2
