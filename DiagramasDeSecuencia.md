@@ -1,6 +1,4 @@
-# ¿Sirve Markdown?
+# DIAGRAMAS DE SECUENCIA
 
-![alt text](https://github.com/FuckUps/FuckUps.github.io/blob/LinkImages/Secuencia_CrearUsuario.jpeg)
+### Crear Usuario
 ![alt text](Secuencia_CrearUsuario.jpeg)
-
-### 13
