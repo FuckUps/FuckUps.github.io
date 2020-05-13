@@ -1,7 +1,5 @@
 # ¿Sirve Markdown?
 
 ![alt text](https://github.com/FuckUps/FuckUps.github.io/blob/LinkImages/Secuencia_CrearUsuario.jpeg)
-![alt text][logo]
-[logo]: https://github.com/FuckUps/FuckUps.github.io/blob/LinkImages/Secuencia_CrearUsuario.jpeg "Logo Title Text 2"
 
-###10
+### 11
