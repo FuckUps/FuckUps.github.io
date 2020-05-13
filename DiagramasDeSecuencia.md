@@ -1,1 +1,1 @@
-[alt text][Secuencia_CrearUsuario]
+![alt text][../Secuencia_CrearUsuario]
