@@ -7,3 +7,8 @@ NUTAY sabe que lo más importante es la salud, por lo que busca darle la oportun
 
 En caso de tener dudas favor de contactar a [no_me_importa@hotmail.com](outlook.com)
 
+### Otras páginas
+[Página principal](index.md)
+[Diagramas de secuencia](DiagramasDeSecuencia.md)
+
+# #1
