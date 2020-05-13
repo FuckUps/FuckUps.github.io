@@ -1,4 +1,4 @@
-# ¿Sirve Markdown?
+# DIAGRAMAS DE SECUENCIA
 
-### Diagrama para crear usuario
+### Crear Usuario
 ![alt text](Secuencia_CrearUsuario.jpeg)
